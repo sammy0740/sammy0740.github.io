@@ -1,2 +1,3 @@
-# sammy0740.github.io
-A collection of important information
+# A collection of important information
+
+- https://dev.to/steveblue/setup-a-redirect-on-github-pages-1ok7
